@@ -1,0 +1,12 @@
+D:\SpotifyApiWrapper\SpotifyApiWrapper\SpotifyApiWrapper\bin\Debug\net8.0\SpotifyApiWrapper.deps.json
+D:\SpotifyApiWrapper\SpotifyApiWrapper\SpotifyApiWrapper\bin\Debug\net8.0\SpotifyApiWrapper.dll
+D:\SpotifyApiWrapper\SpotifyApiWrapper\SpotifyApiWrapper\bin\Debug\net8.0\SpotifyApiWrapper.pdb
+D:\SpotifyApiWrapper\SpotifyApiWrapper\SpotifyApiWrapper\obj\Debug\net8.0\SpotifyApiWrapper.csproj.AssemblyReference.cache
+D:\SpotifyApiWrapper\SpotifyApiWrapper\SpotifyApiWrapper\obj\Debug\net8.0\SpotifyApiWrapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\SpotifyApiWrapper\SpotifyApiWrapper\SpotifyApiWrapper\obj\Debug\net8.0\SpotifyApiWrapper.AssemblyInfoInputs.cache
+D:\SpotifyApiWrapper\SpotifyApiWrapper\SpotifyApiWrapper\obj\Debug\net8.0\SpotifyApiWrapper.AssemblyInfo.cs
+D:\SpotifyApiWrapper\SpotifyApiWrapper\SpotifyApiWrapper\obj\Debug\net8.0\SpotifyApiWrapper.csproj.CoreCompileInputs.cache
+D:\SpotifyApiWrapper\SpotifyApiWrapper\SpotifyApiWrapper\obj\Debug\net8.0\SpotifyApiWrapper.dll
+D:\SpotifyApiWrapper\SpotifyApiWrapper\SpotifyApiWrapper\obj\Debug\net8.0\refint\SpotifyApiWrapper.dll
+D:\SpotifyApiWrapper\SpotifyApiWrapper\SpotifyApiWrapper\obj\Debug\net8.0\SpotifyApiWrapper.pdb
+D:\SpotifyApiWrapper\SpotifyApiWrapper\SpotifyApiWrapper\obj\Debug\net8.0\ref\SpotifyApiWrapper.dll

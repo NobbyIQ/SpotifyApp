@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bHy3OUj3qgE=",
+  "success": true,
+  "projectFilePath": "D:\\SpotifyApp\\SpotifyApiWrapper\\SpotifyApiWrapper\\SpotifyApiWrapper\\SpotifyApiWrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igorq\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
