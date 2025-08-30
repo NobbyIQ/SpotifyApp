@@ -1,0 +1,15 @@
+D:\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\bin\Debug\net8.0\SpotifyApiWrapper.AspNetCore.deps.json
+D:\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\bin\Debug\net8.0\SpotifyApiWrapper.AspNetCore.dll
+D:\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\bin\Debug\net8.0\SpotifyApiWrapper.AspNetCore.pdb
+D:\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\bin\Debug\net8.0\SpotifyApiWrapper.dll
+D:\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\bin\Debug\net8.0\SpotifyApiWrapper.pdb
+D:\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\obj\Debug\net8.0\SpotifyApiWrapper.AspNetCore.csproj.AssemblyReference.cache
+D:\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\obj\Debug\net8.0\SpotifyApiWrapper.AspNetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\obj\Debug\net8.0\SpotifyApiWrapper.AspNetCore.AssemblyInfoInputs.cache
+D:\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\obj\Debug\net8.0\SpotifyApiWrapper.AspNetCore.AssemblyInfo.cs
+D:\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\obj\Debug\net8.0\SpotifyApiWrapper.AspNetCore.csproj.CoreCompileInputs.cache
+D:\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\obj\Debug\net8.0\SpotifyA.5B59AD79.Up2Date
+D:\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\obj\Debug\net8.0\SpotifyApiWrapper.AspNetCore.dll
+D:\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\obj\Debug\net8.0\refint\SpotifyApiWrapper.AspNetCore.dll
+D:\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\obj\Debug\net8.0\SpotifyApiWrapper.AspNetCore.pdb
+D:\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\SpotifyApiWrapper.AspNetCore\obj\Debug\net8.0\ref\SpotifyApiWrapper.AspNetCore.dll
